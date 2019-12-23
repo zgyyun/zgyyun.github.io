@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Techdoc Theme</title>
+    <link>https://zgyyun.github.io/</link>
+    <description>Recent content on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 May 2018 22:04:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://zgyyun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://zgyyun.github.io/new01/</link>
+      <pubDate>Tue, 22 May 2018 22:04:26 +0800</pubDate>
+      
+      <guid>https://zgyyun.github.io/new01/</guid>
+      <description>大家好，我是渣渣辉。 简介 出生地：香港 性别：男 年龄：38 演员经历</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://zgyyun.github.io/post/my-first-blog/</link>
+      <pubDate>Tue, 22 May 2018 22:04:26 +0800</pubDate>
+      
+      <guid>https://zgyyun.github.io/post/my-first-blog/</guid>
+      <description>大家好，我是渣渣辉。 简介 出生地：香港 性别：男 年龄：38</description>
+    </item>
+    
+  </channel>
+</rss>
